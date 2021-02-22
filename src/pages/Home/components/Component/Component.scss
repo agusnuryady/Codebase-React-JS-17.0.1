@@ -1,0 +1,67 @@
+@import '../../../../sass/color';
+
+.page-components {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex: 1;
+  padding: 16px;
+  background-color: var(--black-10);
+
+  .title-page {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--black-70);
+    margin-top: 0;
+    text-transform: capitalize;
+  }
+
+  .content-box {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    flex: 1;
+    border-radius: 8px;
+    padding: 4px;
+    background-color: var(--white);
+  }
+
+  .label-box {
+    position: relative;
+    display: flex;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 4px;
+    background-color: var(--black-30);
+  }
+
+  .label-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--black-90);
+    margin: 0;
+    text-transform: capitalize;
+  }
+
+  .menu-wrap {
+    display: flex;
+    position: relative;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    box-sizing: border-box;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid var(--black-30);
+  }
+
+  .menu-title {
+    width: 25%;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--black-80);
+  }
+}

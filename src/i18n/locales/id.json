@@ -1,0 +1,12 @@
+{
+  "components": "komponen",
+  "dashboard": "dashboard",
+  "general": "umum",
+  "selected": "dipilih",
+  "setting": "pengaturan",
+
+  "darkMode": "Mode Gelap",
+  "hideMenu": "Sembunyikan Menu",
+  "seeAll": "Lihat Semua",
+  "selectLanguage": "Pilih Bahasa"
+}

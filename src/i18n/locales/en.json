@@ -1,0 +1,12 @@
+{
+  "components": "components",
+  "dashboard": "dashboard",
+  "general": "general",
+  "selected": "selected",
+  "setting": "setting",
+
+  "darkMode": "Dark Mode",
+  "hideMenu": "Hide Menu",
+  "seeAll": "See All",
+  "selectLanguage": "Select Language"
+}
